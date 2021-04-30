@@ -114,7 +114,7 @@ public class compu {
 
     @Override
     public String toString() {
-        return "compu{" + "modelo=" + modelo + ", num_serie=" + num_serie + ", cap_discdur=" + cap_discdur + ", tam_pantalla=" + tam_pantalla + ", teclado_num=" + teclado_num + ", procesador=" + procesador + ", Sys_Op=" + Sys_Op + ", tiempo=" + tiempo + ", cap_bat=" + cap_bat + ", duracion_bat=" + duracion_bat + '}';
+        return "compu{" + "modelo=" + modelo + ", num_serie=" + num_serie + ", cap_discdur=" + cap_discdur +"GB" + ", tam_pantalla=" + tam_pantalla + ", teclado_num=" + teclado_num + ", procesador=" + procesador + ", Sys_Op=" + Sys_Op + ", tiempo=" + tiempo + ", cap_bat=" + cap_bat + ", duracion_bat=" + duracion_bat + '}';
     }
    
 }
